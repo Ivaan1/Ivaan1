@@ -52,11 +52,13 @@ __Check out my GitHub repository:__
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivaan1&theme=tokyonight" alt="mystreak"/> <br/><br/>
+    <img src="https://streak-stats.demolab.com/?user=Ivaan1&theme=tokyonight" alt="mystreak"/> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Ivaan1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaan1&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-main-1ilanov.vercel.app/api?username=Ivaan1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-main-1ilanov.vercel.app/api/top-langs/?username=Ivaan1&layout=compact&theme=tokyonight)
+
 
 ---------------------------------------------------------------------------------------------------------------------
